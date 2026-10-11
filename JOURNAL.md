@@ -25,6 +25,6 @@
 Wednesday October 8:
 
 Yesterday I didn't have that much time, but I connected my hackclub account to Half-Life, and downloaded / set up lapse and Kicad.
-Today I did a lot though. I locked in and finished
+Today I did a lot though. I locked in and finished the Kicad portion of the Starbie.
 
 [Timelapse](https://lookout.hackclub.com/api/media/c3ac7ad4-f3be-4870-a2c0-8cef9c62aec0/video.mp4)
