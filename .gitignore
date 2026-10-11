@@ -1,0 +1,32 @@
+# macOS metadata
+.DS_Store
+
+# KiCad temporary and backup files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+#*auto_saved_files*#
+
+# Netlist and local files
+*.net
+*.dsn
+*.ses
+
+# Local history (KiCad 9.0+)
+.history
+
+# Backups folder
+*-backups/
+
+# Arduino build artifacts
+/build/
+.vscode/
+*.hex
+*.bin
