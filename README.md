@@ -1,7 +1,7 @@
 This is a repository for HackClub's Half-Life Event starbie.
-This was built during week 1 of the Half-Life event. I built this so I could get a 3d printer!
-It includes Hardware for the PCB, which was built in KiCad, and Firmware, which was coded in Arduino IDE.
-To assemble the Starbie, you would first need all of the components listed in the BOM.csv, and a soldering iron. You would then place all of the components in the correct positions and solder the parts to the PCB.
+I built this during week 1 of the Half-Life event. I built this so I could get a 3d printer!
+It includes Hardware for the PCB, built in KiCad, and firmware coded in Arduino IDE. I built it using the Half-Life Week 1 guide. (https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md)
+To assemble the Starbie, you would first need all of the components listed in the BOM.csv and a soldering iron. You would then place all of the components in the correct positions and solder the parts to the PCB.
 To flash the Starbie, you would connect your device, a laptop or PC, to the Starbie using a USB-C cable. You would plug it into the XIAO-ESP32-C3, which would let you send it firmware.
 
 <img width="816" height="690" alt="Screenshot 2026-10-28 at 8 09 41 PM" src="https://github.com/user-attachments/assets/205a8713-97c4-4b53-8c6b-3047430641e0" />
